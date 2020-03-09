@@ -1,0 +1,13 @@
+[Unit]
+Description=trojan
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+PIDFile=/var/run/trojan.pid
+ExecStart=/etc/trojan/trojan /etc/trojan/config.json
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

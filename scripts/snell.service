@@ -1,0 +1,13 @@
+[Unit]
+Description=snell
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+PIDFile=/var/run/snell.pid
+ExecStart=/etc/snell/snell-server -c /etc/snell/snell-server.conf
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
