@@ -119,13 +119,11 @@ DOMAIN-SUFFIX,hdslb.com
 USER-AGENT,iQiYi*
 USER-AGENT,QIYIVideo*
 DOMAIN-KEYWORD,iqiyi
+DOMAIN-KEYWORD,71edge
 DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,71.am.com
 # > Baidu
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,nuomi.com
 # > ChinaNet
