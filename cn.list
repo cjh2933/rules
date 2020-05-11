@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,yfcalc.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,akamaized.net
 # > iQiyi
 USER-AGENT,iQiYi*
 USER-AGENT,QIYIVideo*
