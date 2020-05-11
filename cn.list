@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 # > bilibili
 USER-AGENT,Bilibili*
+USER-AGENT,bili-universal
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
