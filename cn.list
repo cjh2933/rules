@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 # > bilibili
+USER-AGENT,Bilibili*
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
