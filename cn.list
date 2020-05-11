@@ -113,7 +113,9 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,yfcalc.com
 DOMAIN-SUFFIX,hdslb.com
 # > iQiyi
 USER-AGENT,iQiYi*
