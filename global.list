@@ -12,6 +12,7 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # > Google
+DOMAIN-SUFFIX,gmail.com
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,goo.gl
 # > 球迷网
@@ -25,6 +26,8 @@ DOMAIN-SUFFIX,vultr.com
 # > 其他
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,pandafan
@@ -41,3 +44,9 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,chemistwarehouse.com.au
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-KEYWORD,facebook
