@@ -36,8 +36,7 @@ DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
-DOMAIN-SUFFIX,6park.com
-DOMAIN-SUFFIX,6parknews.com
+DOMAIN-KEYWORD,6park
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
