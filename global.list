@@ -1,3 +1,16 @@
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,my
+DOMAIN-SUFFIX,id
+DOMAIN-SUFFIX,hk
+# > clash of clans 
+USER-AGENT,Clash%20of%20Clans*
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,helpshift.com
 # > Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
@@ -24,6 +37,8 @@ DOMAIN-SUFFIX,waqi.info
 DOMAIN-SUFFIX,hosthatch.com
 DOMAIN-SUFFIX,vultr.com
 # > 其他
+USER-AGENT,Instagram*
+USER-AGENT,Twitter*
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com
