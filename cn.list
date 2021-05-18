@@ -38,8 +38,8 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,mob.com
 # > Tencent
-USER-AGENT,MicroMessenger%20Client
-USER-AGENT,MicroMessenger Client
+USER-AGENT,MicroMessenger%20Client*
+USER-AGENT,MicroMessenger Client*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 DOMAIN-KEYWORD,weixin
@@ -218,10 +218,7 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
-DOMAIN-SUFFIX,wandoujia.com
-DOMAIN-SUFFIX,weather.bjango.com
 DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,webqxs.com
 DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
