@@ -12,14 +12,6 @@ DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,ppsport.com
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,scorecardresearch.com
-# > 91美剧
-DOMAIN-SUFFIX,com-l-tudou.com
-# > novipnoad美剧
-DOMAIN-SUFFIX,novipnoad.com
-DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,noanob.com
-DOMAIN-SUFFIX,sc2yun.com
-DOMAIN-SUFFIX,applinzi.com
 # > 招商银行
 USER-AGENT,%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,cmblife*
