@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,gtimg.com
 # > Alibaba
-DOMAIN-SUFFIX,alibaba.com
+DOMAIN-KEYWORD,alibaba
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,aliyun.com
