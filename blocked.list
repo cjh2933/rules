@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,sg
+DOMAIN-KEYWORD,cloudflare
 # > poe
 DOMAIN-SUFFIX,poe.com
 # > 1password
