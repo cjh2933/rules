@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,sg
 DOMAIN-KEYWORD,cloudflare
-# > poe
+DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,poe.com
 # > 1password
 DOMAIN-SUFFIX,agilebits.com
