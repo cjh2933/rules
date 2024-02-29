@@ -1,3 +1,7 @@
+# > 1password
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-KEYWORD,1password
+# > Others
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,tw
@@ -9,6 +13,4 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,github.com
-# > 1password
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,caus.com
