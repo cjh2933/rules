@@ -1,7 +1,3 @@
-# > 1password
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-KEYWORD,1password
-# > Others
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,tw
@@ -18,3 +14,7 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN,www.meijumi.net
 DOMAIN,secure.widget.cloud.opta.net
 DOMAIN-SUFFIX,soccerway.com
+
+# > 1password
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-KEYWORD,1password
