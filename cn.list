@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,cjhwill.cc
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,idqqimg.com
-# > 澳大利亚签证
-DOMAIN-SUFFIX,ustraveldocs.com
 # > 美国签证
 DOMAIN-SUFFIX,usembassy.gov
+DOMAIN-SUFFIX,ustraveldocs.com
