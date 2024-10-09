@@ -16,6 +16,9 @@ DOMAIN,secure.widget.cloud.opta.net
 DOMAIN-SUFFIX,felo.ai
 DOMAIN-SUFFIX,soccerway.com
 DOMAIN,cdn.skyearth.xyz
+# > y2mate下载
+DOMAIN-SUFFIX,y2mate.is
+DOMAIN-SUFFIX,dlmate.cc
 # > 1password
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-KEYWORD,1password
