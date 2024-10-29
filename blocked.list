@@ -22,3 +22,7 @@ DOMAIN-SUFFIX,dlmate.cc
 # > 1password
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-KEYWORD,1password
+# > Kickstarter
+DOMAIN-SUFFIX,transcend.io
+DOMAIN-SUFFIX,kickstarter.com
+
